@@ -1,6 +1,3 @@
-# Subset Sum Problem
-[Subset Sum Problem](https://www.geeksforgeeks.org/problems/subset-sum-problem-1611555638/1)
-```cpp
 //{ Driver Code Starts
 
 #include <bits/stdc++.h>
@@ -171,4 +168,3 @@ int main() {
 }
 
 // } Driver Code Ends
-```
